@@ -18,6 +18,9 @@ import com.bumptech.glide.Glide;
 import com.bumptech.glide.load.engine.DiskCacheStrategy;
 import com.bumptech.glide.load.resource.drawable.DrawableTransitionOptions;
 import com.bumptech.glide.request.RequestOptions;
+import com.example.wika.hewanpeliharaan.CustomFilter;
+import com.example.wika.hewanpeliharaan.Pets;
+import com.example.wika.hewanpeliharaan.R;
 
 import java.util.ArrayList;
 import java.util.List;
